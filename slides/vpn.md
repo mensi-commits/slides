@@ -24,6 +24,10 @@ verticalSeparator: "^--$"
 
 --
 
+# CHATGPT ASWER
+
+--
+
 A VPN is an obfuscated, cryptographically encapsulated, overlay networking construct predicated upon the establishment of a logically segregated, tunneled conduit across heterogeneous, adversarial packet-switched infrastructures, wherein endpoint-originated datagrams are subjected to multi-layer symmetric/asymmetric cipher transformations, key-exchange-mediated session initialization.
 
 --
@@ -80,6 +84,10 @@ So the internet still works the same, but you are **hidden behind the mask** .
 
 https://www.zdf.de/serien/iris-die-wahrheit-100
 
+--
+
+<img src="https://media.makeameme.org/created/its-all-over-tavdc2.jpg" width="700px" alt="demo time"/>
+
 ---
 
 # Types of VPNs
@@ -89,3 +97,21 @@ https://www.zdf.de/serien/iris-die-wahrheit-100
 Business VPNs vs. personal VPNs
 
 --
+
+![valid example](assets/vpn/1.png)
+
+---
+
+<img src="https://media.makeameme.org/created/demo-time-5c4fe1.jpg" width="600px" alt="demo sparta"/>
+
+--
+
+https://app.hackthebox.com/machines
+
+--
+
+<img src="https://media.makeameme.org/created/its-over-clap.jpg" width="500px" alt="demo time"/>
+
+---
+
+# QUIZ TIME
