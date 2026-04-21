@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 
-    <title>reveal-md</title>
+    <title>My Slides</title>
     <link rel="shortcut icon" href="./favicon.ico" />
     <link rel="stylesheet" href="./dist/reset.css" />
     <link rel="stylesheet" href="./dist/reveal.css" />
@@ -15,12 +15,27 @@
   <body>
     <div class="reveal">
       <div class="slides">
-        <section data-markdown data-separator="\r?\n---\r?\n" data-separator-vertical="\r?\n----\r?\n">
+        <section data-markdown data-separator="^---$" data-separator-vertical="^--$">
           <textarea data-template>
-            # Slides
+            
 
-* [Intro to Linux](intro-to-linux.md)
-* [Intro to CTFs](intro-to-ctfs.md)
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/monokai-sublime.min.css">
+
+<link rel="icon" href="./favicon.ico" type="image/x-icon">
+
+# Intro to CTFs
+
+#### + other things you should know
+
+---
+
+## CTF
+
+- Capture The Flag
+- Special kind of information security
+- You will apply your cybersecurity skills to solve a challenge and get the flag.
+
+--
 
           </textarea>
         </section>
@@ -73,7 +88,7 @@
       // options from URL query string
       var queryOptions = Reveal().getQueryHash() || {};
 
-      var options = extend(defaultOptions, {"_":["slides"],"static":"docs","highlight-theme":"github","highlightTheme":"github"}, queryOptions);
+      var options = extend(defaultOptions, {"transition":"slide","controls":true,"progress":true,"history":false,"slideNumber":false,"_":["slides"],"static":"docs","highlight-theme":"github","highlightTheme":"github"}, queryOptions);
     </script>
 
 
