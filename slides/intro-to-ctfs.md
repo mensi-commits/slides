@@ -610,10 +610,10 @@ We are given an image, and it might contain certain hidden information
 
 ### Build your CTF Team (IMPORTANT)
 
-- Step 1: Find teammates
+- Step 1: Build teammates
 - Step 2: Choose a team name
-
---
+- Step 3: Discord server
+- ctftime story.
 
 ---
 
@@ -623,6 +623,16 @@ We are given an image, and it might contain certain hidden information
 - Will definitely benefit you in long pentests and challenges where you will have to connect multiple services and systems to exploit the system
 - Helpful to others too
 
+- Make your blog (clone my blog).
+
+---
+
+### This field rewards obsession
+
+- Nobody is coming to save you.
+- Not your teacher. Not your university. Not your friends.
+- certications & courses
+
 ---
 
 ## Practice sites
@@ -630,6 +640,7 @@ We are given an image, and it might contain certain hidden information
 - [TryHackMe](https://tryhackme.com)
 - [VulnHub](https://www.vulnhub.com/)
 - [HackTheBox](https://hackthebox.eu)
+- [picoctf](https://picoctf.org/)
 
 ---
 
