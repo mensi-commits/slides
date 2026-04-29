@@ -20,6 +20,20 @@ verticalSeparator: "^--$"
 
 ---
 
+![valid example](assets/intro-to-ctfs/vos.jpg)
+
+--
+
+## Who am i ?
+
+- MEN-see not mnsi 😭😭
+- Founding President SecuriNets ENSIT
+- Former ctf player @Curiosity (1st Team Tunisia)
+- Former ctf player @0xL4ugh (1st Team Egypt)
+- Professional Baby-foot player XD
+
+---
+
 ## CTF
 
 - Capture The Flag
@@ -655,6 +669,15 @@ We are given an image, and it might contain certain hidden information
 - [VulnHub](https://www.vulnhub.com/)
 - [HackTheBox](https://hackthebox.eu)
 - [picoctf](https://picoctf.org/)
+
+---
+
+### what is do today when i back home (Homework)
+
+- register on ctftime
+- make discord server for your team
+- solve & writeup
+- koul denya ;)
 
 ---
 
