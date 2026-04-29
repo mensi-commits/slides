@@ -596,14 +596,6 @@ We are given an image, and it might contain certain hidden information
 
 ---
 
-## Practice sites
-
-- [TryHackMe](https://tryhackme.com)
-- [VulnHub](https://www.vulnhub.com/)
-- [HackTheBox](https://hackthebox.eu)
-
----
-
 ### ctftime.org !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 - The goal is to engage not just play CTFs.
@@ -613,6 +605,15 @@ We are given an image, and it might contain certain hidden information
 - Writeups
 
 (in that order)
+
+--
+
+### Build your CTF Team (IMPORTANT)
+
+- Step 1: Find teammates
+- Step 2: Choose a team name
+
+--
 
 ---
 
@@ -624,10 +625,11 @@ We are given an image, and it might contain certain hidden information
 
 ---
 
-- Theory is suckkss (ye33333) but its important !!!!!!!
-- let's get out hand dirty with reversing ......
+## Practice sites
 
-<img src="https://media.licdn.com/dms/image/v2/D4D22AQEo1jsSFa12YA/feedshare-shrink_800/feedshare-shrink_800/0/1727582462114?e=2147483647&v=beta&t=EIz2OyTwJxw8i4UHIZlbPOXn0y3HS9vFTRg4lYUWT88" width="500px" alt="demo time"/>
+- [TryHackMe](https://tryhackme.com)
+- [VulnHub](https://www.vulnhub.com/)
+- [HackTheBox](https://hackthebox.eu)
 
 ---
 
