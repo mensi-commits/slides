@@ -608,6 +608,10 @@ We are given an image, and it might contain certain hidden information
 
 --
 
+![valid example](assets/intro-to-ctfs/vos.jpg)
+
+--
+
 ### Build your CTF Team (IMPORTANT)
 
 - Step 1: Build teammates
@@ -627,11 +631,21 @@ We are given an image, and it might contain certain hidden information
 
 ---
 
-### This field rewards obsession
+### This field rewards obsession (What does CTFs benefits me ?)
 
+- What does CTFs benefits me ?
 - Nobody is coming to save you.
 - Not your teacher. Not your university. Not your friends.
 - certications & courses
+- spirit of sharing
+
+--
+
+- https://couponscorpion.com/
+- https://piracy.vercel.app/
+- OffSec certifications
+- breach projects
+- don't open your mouth (be hungry)
 
 ---
 
